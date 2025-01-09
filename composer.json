@@ -1,0 +1,15 @@
+{
+	"name" : "flosch/slideshow-plugin",
+	"type" : "october-plugin",
+	"description" : "Create, display and manage galleries of photos arranged in albums.",
+	"homepage" : "https://octobercms.com/plugin/flosch-slideshow",
+	"keywords" : [
+		"october",
+		"octobercms",
+		"photoalbums"
+	],
+	"license" : "MIT",
+	"require" : {
+		"composer/installers" : "~1.0"
+	}
+}
