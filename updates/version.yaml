@@ -30,3 +30,6 @@
     - Localized Menu Item types
 1.4.2:
     - Fixed second insert photo icon from occuring in blog post form
+1.4.3:
+    - added multisite functionality
+    - add_multisite_fields_to_albums_table.php
