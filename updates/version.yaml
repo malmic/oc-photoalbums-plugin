@@ -33,3 +33,5 @@
 1.4.3:
     - added multisite functionality
     - add_multisite_fields_to_albums_table.php
+1.4.4:
+    - Added german tranlsation of plugin
