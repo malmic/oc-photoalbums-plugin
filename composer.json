@@ -1,5 +1,5 @@
 {
-    "name": "graker/oc-photoalbums-plugin",
+    "name": "graker/photoalbums-plugin",
     "type": "october-plugin",
     "description": "Create, display and manage galleries of photos arranged in albums.",
     "homepage": "https://octobercms.com/plugin/graker-photoalbums",
