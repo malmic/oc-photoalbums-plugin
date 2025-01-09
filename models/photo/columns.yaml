@@ -3,11 +3,10 @@
 # ===================================
 
 columns:
-    id:
+    image:
         label: graker.photoalbums::lang.plugin.photo
         type: image
         width: 100
-        height: 100
 
     title:
         label: graker.photoalbums::lang.plugin.title_label
