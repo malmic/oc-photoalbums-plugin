@@ -11,7 +11,7 @@ return new class extends Migration
 {
     public function up()
     { 
-        Schema::table('flosch_slideshow_slideshows', function (Blueprint $table) {
+        Schema::table('graker_photoalbums_albums', function (Blueprint $table) {
             $table->integer('site_id')->nullable()->index();
             $table->integer('site_root_id')->nullable()->index();
         });
