@@ -1,25 +1,25 @@
 {
-    "name" : "graker/oc-photoalbums-plugin",
-    "type" : "october-plugin",
-    "description" : "Create, display and manage galleries of photos arranged in albums.",
-    "homepage" : "https://octobercms.com/plugin/graker-photoalbums",
-    "keywords" : [
+    "name": "graker/oc-photoalbums-plugin",
+    "type": "october-plugin",
+    "description": "Create, display and manage galleries of photos arranged in albums.",
+    "homepage": "https://octobercms.com/plugin/graker-photoalbums",
+    "keywords": [
         "october",
         "octobercms",
         "plugin",
         "photoalbums"
     ],
-    "authors" : [{
-            "name" : "sei mal digital - Michael Malik",
-            "email" : "michael@seimal.digital"
+    "authors": [{
+            "name": "sei mal digital - Michael Malik",
+            "email": "michael@seimal.digital"
         }
     ],
-    "license" : "MIT",
-    "require" : {
-        "php" : ">=8.0",
-        "composer/installers" : "~1.0"
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0",
+        "composer/installers": "~1.0"
     },
-    "extra" : {
-        "installer-name" : "photoalbums"
+    "extra": {
+        "installer-name": "photoalbums"
     }
 }
