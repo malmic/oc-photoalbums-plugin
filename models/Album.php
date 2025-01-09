@@ -8,6 +8,7 @@ use System\Models\File;
  */
 class Album extends Model
 {
+    use \October\Rain\Database\Traits\Multisite;
 
     /**
      * @var string The database table used by the model.
@@ -35,6 +36,8 @@ class Album extends Model
       'user' => ['Backend\Models\User'],
       'front' => ['Graker\PhotoAlbums\Models\Photo'],
     ];
+    
+    protected $propagatable = [];
 
 
     /**
